@@ -50,7 +50,6 @@ Task 3: Composition
 
 Task 1: Inheritance (task1.js)
 
-// Name: MAHI PAL | Roll No: BCS2025377 | Ass: 8 T1
 
 class Person {\
 constructor(name) {\
